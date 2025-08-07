@@ -1,0 +1,1 @@
+{"isbn": "9780201616224", "title": "The Pragmatic Programmer", "author": "Andy Hunt & David Thomas & Dave Thomas & Andrew Hunt & David . Thomas", "publisher": "Addison-Wesley", "publish_date": "2000"}
